@@ -8,7 +8,7 @@
         "Vidio Vc Steramer"
     ],
     "website": "https://t.me/DeeCodeBots",
-    "repository": "https://github.com/Sammy-XD/VcVideoPlayer",
+    "repository": "https://github.com/For-Bhashitha/VcVideoPlayer",
     "success_url": "https://t.me/DeeCodeBots",
     "env": {
         "API_ID": {
